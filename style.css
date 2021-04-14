@@ -5,13 +5,9 @@ body {
   font-family: "Handlee", cursive;
   line-height: 1.5rem;
   background-color: rgb(255, 255, 255);
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h3 {
   padding-left: 20rem;
-}
-
-a :hover {
-  font-size: 20px;
 }
