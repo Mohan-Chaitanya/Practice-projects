@@ -9,5 +9,22 @@ body {
 }
 
 h3 {
-  padding-left: 20rem;
+  text-align: center;
+}
+
+h4 {
+  color: hsl(240, 47%, 45%);
+}
+
+a {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  margin-left: 1rem;
+  border-radius: 3px;
+  padding: 0.5rem;
+}
+
+a:hover {
+  background-color: hsl(118, 94%, 19%);
 }
